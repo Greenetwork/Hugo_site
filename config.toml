@@ -3,6 +3,7 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
 title = "Basin Logix 2023"
+relativeUrls = true
 
 [module]
   [module.hugoVersion]
