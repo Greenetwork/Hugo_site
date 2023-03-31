@@ -1,0 +1,33 @@
+<div class="call">
+  <div class="call-box-top">
+    <!-- {{ if .site.Data.contact.phone }}
+        <div class="call-phone"><strong>Phone: </strong> {{ .site.Data.contact.phone }} </div>
+    {{ end }}
+    {{ if .site.Data.contact.email }}
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:{{ .site.Data.contact.email }}">
+        {{ .site.Data.contact.email }}
+      </a>
+    </div>
+    {{ end }}
+  </div>
+    {{ if eq .show_button "true" }}
+      <div class="call-box-bottom">
+        <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">Contact</a>
+      </div>
+    {{ end }} -->
+
+    <form action="https://api.web3forms.com/submit" method="POST">
+
+      <input type="hidden" name="access_key" value="3cca5dad-a2ae-4daa-aeed-8ba15bb35bf4">
+      <input type="text" name="name" id="full-name" placeholder="Name" required="">
+      <input type="email" name="email" id="email" placeholder="Email" required="">
+      <input type="hidden" name="_subject" id="email-subject" value="New platform signup">
+      <input type="hidden" name="redirect" value="https://register.basinlogix.com/index.html#Thanks">
+      <button type="submit">Submit</button>
+      
+    </form>
+
+  </div>
+</div>
+
