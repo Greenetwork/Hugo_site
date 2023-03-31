@@ -1,5 +1,5 @@
 ---
-title: "Basin Logix 0.0.1 Is Available for Testing"
+title: "Basin Logix is Available for Testing"
 date: 2021-10-18
 draft: false
 ---
