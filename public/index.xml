@@ -2,165 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Basin Logix 2023</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Homepage on Basin Logix 2023</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Mar 2023 17:05:37 -0700</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Growers and Landowners</title>
-      <link>/services/growers/</link>
+      <link>//localhost:1313/services/growers/</link>
       <pubDate>Wed, 01 Mar 2023 12:33:46 +1000</pubDate>
-      
-      <guid>/services/growers/</guid>
-      <description>We reinvented water assets so that you can control your resource how you choose to.
-State Wide Trust Know where you stand, no matter where you are. Basin Logix operates on a single distributed ledger, so everyone is working with the same numbers. We know your groundwater worries span the whole state, so we built a platform that does the same.
-Quick Glance We get data and you get information. Quick Glance lets you track your surface water and groundwater without needing to keep tabs on all the details yourself.</description>
+      <guid>//localhost:1313/services/growers/</guid>
+      <description>&lt;p&gt;We reinvented water assets so that you can control your resource how you choose to.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/coaster.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide-trust&#34;&gt;State Wide Trust&lt;/h2&gt;&#xA;&lt;p&gt;Know where you stand, no matter where you are. Basin Logix operates on a single distributed ledger, so everyone is working with the same numbers. We know your groundwater worries span the whole state, so we built a platform that does the same.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-glance&#34;&gt;Quick Glance&lt;/h2&gt;&#xA;&lt;p&gt;We get data and you get information. Quick Glance lets you track your surface water and groundwater without needing to keep tabs on all the details yourself. If you want to go deeper, the data is there.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GSAs, Irrigation Districts, and Counties</title>
-      <link>/services/gsas/</link>
+      <link>//localhost:1313/services/gsas/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      
-      <guid>/services/gsas/</guid>
-      <description>Get on track to sustainably with demand management that fits your needs.
-State Wide Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.
-Quick Check No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.</description>
+      <guid>//localhost:1313/services/gsas/</guid>
+      <description>&lt;p&gt;Get on track to sustainably with demand management that fits your needs.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/sticker_emergency.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide&#34;&gt;State Wide&lt;/h2&gt;&#xA;&lt;p&gt;Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-check&#34;&gt;Quick Check&lt;/h2&gt;&#xA;&lt;p&gt;No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Basin Logix 0 0 1 Is Available for Testing</title>
-      <link>/post/basin-logix-0-0-1-is-available-for-testing/</link>
-      <pubDate>Fri, 31 Mar 2023 11:23:03 -0700</pubDate>
-      
-      <guid>/post/basin-logix-0-0-1-is-available-for-testing/</guid>
-      <description>test</description>
-    </item>
-    
     <item>
       <title>Welcome to Your Future</title>
-      <link>/welcome/</link>
+      <link>//localhost:1313/welcome/</link>
       <pubDate>Thu, 30 Mar 2023 17:05:37 -0700</pubDate>
-      
-      <guid>/welcome/</guid>
-      <description>The beta version of your platform for water accounting. Access link: http://platform.basinlogix.com/
-For details on the platform and an overview of its functionality see: beta platform introduction
-For a tutorial on how to use the platform see: tutorial
-If you would like to get in touch with us please email: spencerbh@basinlogix.com
- The Basin Logix platform is undergoing constant improvements and rapid development. Any usage of the platform, including accounts/assets created, is for demonstration purposes only and will not be retained in future releases.</description>
+      <guid>//localhost:1313/welcome/</guid>
+      <description>&lt;h3 id=&#34;access-link-to-the-beta-version-of-your-platform-for-water-accounting&#34;&gt;Access link to the beta version of your platform for water accounting:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://platform.basinlogix.com/&#34;&gt;http://platform.basinlogix.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-details-on-the-platform-and-an-overview-of-its-functionality-see&#34;&gt;For details on the platform and an overview of its functionality see:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./blog/basin-logix-0-0-1-is-available-for-testing&#34;&gt;Platform introduction&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-a-tutorial-on-how-to-use-the-platform-see&#34;&gt;For a tutorial on how to use the platform see:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./blog/tutorial&#34;&gt;Platform tutorial&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-smartphone-groundwater-well-registration-see&#34;&gt;For smartphone groundwater well registration see:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://register.basinlogix.com/&#34;&gt;Well registration&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you would like to get in touch with us please email: &lt;a href=&#34;mailto:spencerbh@basinlogix.com&#34;&gt;spencerbh@basinlogix.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The Basin Logix platform is undergoing constant improvements and rapid development. Any usage of the platform, including accounts/assets created, is for demonstration purposes only and will not be retained in future releases.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Exhaustion and Expansion</title>
-      <link>/blog/exhaustion-and-expansion/</link>
+      <link>//localhost:1313/blog/exhaustion-and-expansion/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/exhaustion-and-expansion/</guid>
-      <description>February 2nd, 2023
- &amp;ldquo;Such resources [&amp;hellip;natural resources…] share with most of the capital of society the property of being exhaustible, and if we want to maintain or increase our income, we must be able to replace each resource that is being used up with a new one that will make at least an equal contribution to future income.&amp;rdquo; [1]
- The mindset of necessary consumption of natural resources resulting in economic growth has been and continues to be in the subconscious of enterprising Americans.</description>
+      <guid>//localhost:1313/blog/exhaustion-and-expansion/</guid>
+      <description>&lt;p&gt;February 2nd, 2023&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Such resources [&amp;hellip;natural resources…] share with most of the capital of society the property of being exhaustible, and if we want to maintain or increase our income, we must be able to replace each resource that is being used up with a new one that will make at least an equal contribution to future income.&amp;rdquo; [1]&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/pics/sunrise.jpg&#34; alt=&#34;p-ridge sunrise&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The mindset of necessary consumption of natural resources resulting in economic growth has been and continues to be in the subconscious of enterprising Americans. To claim that this mindset is misguided would be to ignore the past century of economic prosperity brought on by the consumption of natural resources.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sticker Signup</title>
-      <link>/blog/sticker-signup/</link>
+      <link>//localhost:1313/blog/sticker-signup/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/sticker-signup/</guid>
-      <description>November 30th, 2022
-Basin Logix is thrilled to announce a new way to join the biggest groundwater management platform in California! We are bringing a revolutionary way of registering your groundwater wells on Basin Logix. All you need is our sticker and your phone.
-Sticker Signup is the fastest and easiest way to get started managing your groundwater assets. Continuing with our grower first mentality we will be exclusively launching Sticker Signup at the 2022 California Farm Bureau Annual Meeting in Monterey, CA.</description>
+      <guid>//localhost:1313/blog/sticker-signup/</guid>
+      <description>&lt;p&gt;November 30th, 2022&lt;/p&gt;&#xA;&lt;p&gt;Basin Logix is thrilled to announce a new way to join the biggest groundwater management platform in California! We are bringing a revolutionary way of registering your groundwater wells on Basin Logix. All you need is our sticker and your phone.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/pics/sticker.png&#34; alt=&#34;Sticker Signup&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;sticker-signup-is-the-fastest-and-easiest-way-to-get-started-managing-your-groundwater-assets&#34;&gt;Sticker Signup is the fastest and easiest way to get started managing your groundwater assets.&lt;/h2&gt;&#xA;&lt;p&gt;Continuing with our grower first mentality we will be exclusively launching Sticker Signup at the &lt;a href=&#34;https://www.cfbf.com/ag-events/annual-meeting/&#34;&gt;2022 California Farm Bureau Annual Meeting&lt;/a&gt; in Monterey, CA.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cubes Cryptography and Common Pool Resources</title>
-      <link>/blog/cubes-cryptography-and-common-pool-resources/</link>
+      <link>//localhost:1313/blog/cubes-cryptography-and-common-pool-resources/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/cubes-cryptography-and-common-pool-resources/</guid>
-      <description>May 5th, 2022
-Cubes, Cryptography and Common Pool Resources Two weeks ago Basin Logix was at the Association of California Water Agencies (ACWA) 2022 Spring conference in the imposing Sacramento conference center. This was our first time at ACWA and lucky for us we secured a booth right in front of the exhibitor hall entrance. Around us were the standard fare of conference exhibitor swag up for grabs: bowls of candy, business card raffles to win gadgets, company stationary, and even the crowd-pleasing mini putting green.</description>
+      <guid>//localhost:1313/blog/cubes-cryptography-and-common-pool-resources/</guid>
+      <description>&lt;p&gt;May 5th, 2022&lt;/p&gt;&#xA;&lt;p&gt;Cubes, Cryptography and Common Pool Resources&#xA;Two weeks ago Basin Logix was at the Association of California Water Agencies &lt;a href=&#34;https://www.acwa.com/&#34;&gt;(ACWA)&lt;/a&gt; 2022 Spring conference in the imposing Sacramento conference center. This was our first time at ACWA and lucky for us we secured a booth right in front of the exhibitor hall entrance. Around us were the standard fare of conference exhibitor swag up for grabs: bowls of candy, business card raffles to win gadgets, company stationary, and even the crowd-pleasing mini putting green.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Forgotten Property of Water</title>
-      <link>/blog/the-forgotten-property-of-water/</link>
+      <link>//localhost:1313/blog/the-forgotten-property-of-water/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/the-forgotten-property-of-water/</guid>
-      <description>April 5th, 2022
-When we seek to understand water on earth there are two types of variables, units of time and units of water. Combining the units helps us quantify water: Gallons per minute, acre-feet per year, cubic-feet per second, inches per hour, etc.
-Time is the constant by which everything is relativized. Combining time and water on paper helps us quantify the resource, but combining time and water on earth yields life.</description>
+      <guid>//localhost:1313/blog/the-forgotten-property-of-water/</guid>
+      <description>&lt;p&gt;April 5th, 2022&lt;/p&gt;&#xA;&lt;p&gt;When we seek to understand water on earth there are two types of variables, units of time and units of water. Combining the units helps us quantify water: Gallons per minute, acre-feet per year, cubic-feet per second, inches per hour, etc.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/pics/aquaduct.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Time is the constant by which everything is relativized. Combining time and water on paper helps us quantify the resource, but combining time and water on earth yields life. The most important commonly accepted requirement for planetary life is water in liquid form. &amp;ldquo;In living organisms water is active in the transportation of nutrients and other chemicals, in determining the structure and properties of large molecules such as proteins and nucleic acids, in the biochemical reactions taking place in cells and in tissue, and in heat-regulation processes such as moisture absorption and transpiration&amp;rdquo; [1]. All of this to say, humans and the environment need water to continue living. Whether the outcome is the loss of a species or the loss of profits, when water is removed death follows. Corporations, communities and commodities all die without water.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Basin Logix is Available for Testing</title>
-      <link>/blog/basin-logix-is-available-for-testing/</link>
+      <link>//localhost:1313/blog/basin-logix-is-available-for-testing/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/basin-logix-is-available-for-testing/</guid>
-      <description>October 18th, 2021
-We are launching a beta version of the Basin Logix platform 0.0.1, for the governance and management of groundwater in select counties in California:
-Alameda, Amador, Butte, Calaveras, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humbolt, Imperial, Kern, Kings, Lake, Lassen, Madera, Marin, Mendocino, Merced, Mono, Monterey, Napa, Orange, Placer, Sacramento, San Benito, San Bernardino, San Joaquin, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Solano, Sonoma, Stanislaus, Sutter, Tehama, Tulare, Ventura, Yolo, and Yuba</description>
+      <guid>//localhost:1313/blog/basin-logix-is-available-for-testing/</guid>
+      <description>&lt;p&gt;October 18th, 2021&lt;/p&gt;&#xA;&lt;p&gt;We are launching a beta version of the Basin Logix platform 0.0.1, for the governance and management of groundwater in select counties in California:&lt;/p&gt;&#xA;&lt;p&gt;Alameda, Amador, Butte, Calaveras, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humbolt, Imperial, Kern, Kings, Lake, Lassen, Madera, Marin, Mendocino, Merced, Mono, Monterey, Napa, Orange, Placer, Sacramento, San Benito, San Bernardino, San Joaquin, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Solano, Sonoma, Stanislaus, Sutter, Tehama, Tulare, Ventura, Yolo, and Yuba&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tutorial for Basin Logix Platform beta</title>
-      <link>/blog/tutorial/</link>
+      <link>//localhost:1313/blog/tutorial/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/tutorial/</guid>
-      <description>October 18th, 2021
-Welcome to the Basin Logix Platform 0.0.1 beta release tutorial.
-In this tutorial we will be demonstrating:
- Searching for, inspecting and registering agricultural parcels on the network Distributing groundwater allocations to all registered parcels on the network Trading groundwater allocations between parcels on the network. Monitoring the compliance of agricultural parcels on the network. Taking ownership of your APNs on Basin Logix.  We have detailed how to create user accounts and take ownership of your APNs on Basin Logix in this tutorial.</description>
+      <guid>//localhost:1313/blog/tutorial/</guid>
+      <description>&lt;p&gt;October 18th, 2021&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the Basin Logix Platform 0.0.1 beta release tutorial.&lt;/p&gt;&#xA;&lt;p&gt;In this tutorial we will be demonstrating:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Searching for, inspecting and registering agricultural parcels on the network&lt;/li&gt;&#xA;&lt;li&gt;Distributing groundwater allocations to all registered parcels on the network&lt;/li&gt;&#xA;&lt;li&gt;Trading groundwater allocations between parcels on the network.&lt;/li&gt;&#xA;&lt;li&gt;Monitoring the compliance of agricultural parcels on the network.&lt;/li&gt;&#xA;&lt;li&gt;Taking ownership of your APNs on Basin Logix.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;We have detailed how to create user accounts and take ownership of your APNs on Basin Logix in this tutorial.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gearing Up to Xcelerate</title>
-      <link>/blog/gearing-up-to-xcelerate/</link>
+      <link>//localhost:1313/blog/gearing-up-to-xcelerate/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/gearing-up-to-xcelerate/</guid>
-      <description>May 21st, 2021
-In the seven months since the last blog post we have been coding in rust, listening to passionate community leaders, writing our ideas and most importantly applying those insights and knowledge towards the development of our natural resource management platform.
-There is some particularly bad weather these days, climate change is already affecting the planet in major ways and it shows no signs of letting up. The gear we&amp;rsquo;ve used to combat previous crises just isn&amp;rsquo;t going to cut it.</description>
+      <guid>//localhost:1313/blog/gearing-up-to-xcelerate/</guid>
+      <description>&lt;p&gt;May 21st, 2021&lt;/p&gt;&#xA;&lt;p&gt;In the seven months since the last blog post we have been &lt;a href=&#34;https://industryconnect.io/Authority/ViewCertificate?guid=d0640a6f-a54a-45a7-bdd2-a1dacebed1e9&#34;&gt;coding&lt;/a&gt; in rust, &lt;a href=&#34;https://www.crowdcast.io/e/polkadot-conversations-session4/register&#34;&gt;listening&lt;/a&gt; to passionate community leaders, &lt;a href=&#34;https://github.com/Greenetwork/BLX_whitepaper/raw/main/BasinLogix_whitepaper.pdf&#34;&gt;writing&lt;/a&gt; our ideas and most importantly applying those insights and knowledge towards the development of our &lt;a href=&#34;platform.basinlogix.com&#34;&gt;natural resource management platform&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/pics/multitool.jpg&#34; alt=&#34;Multi-tool&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;There is some particularly bad weather these days, climate change is already affecting the planet in major ways and it shows no signs of letting up. The gear we&amp;rsquo;ve used to combat previous crises just isn&amp;rsquo;t going to cut it. There is a saying among avid hikers and climbers, &amp;ldquo;There&amp;rsquo;s no such thing as bad weather, just bad gear.&amp;rdquo; Although we are not preparing for a mountaineering adventure, the concept still translates.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tip of the Iceberg</title>
-      <link>/blog/tip-of-the-iceberg/</link>
+      <link>//localhost:1313/blog/tip-of-the-iceberg/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/tip-of-the-iceberg/</guid>
-      <description>August 21st, 2020
-A few weeks ago I was invited to speak at Substrate Seminar, a weekly meeting where people share what they are working on in the realm of Substrate, a platform for producing unique blockchains. A one hour conversation about some of my learnings as a beginner, turned out to actually be a step towards realizing Basin Logix&amp;rsquo;s long term project goals.
-My interest in building with Substrate began in earnest a few months ago, when I completed a blockchain developer course in Ethereum.</description>
+      <guid>//localhost:1313/blog/tip-of-the-iceberg/</guid>
+      <description>&lt;p&gt;August 21st, 2020&lt;/p&gt;&#xA;&lt;p&gt;A few weeks ago I was invited to speak at Substrate Seminar, a weekly meeting where people share what they are working on in the realm of Substrate, a platform for producing unique blockchains. A one hour conversation about some of my learnings as a beginner, turned out to actually be a step towards realizing Basin Logix&amp;rsquo;s long term project goals.&lt;/p&gt;&#xA;&lt;p&gt;My interest in building with Substrate began in earnest a few months ago, when I completed a blockchain developer course in Ethereum. The course was well run and had polished content, but when I turned around at the end to begin work on Basin Logix using the Ethereum toolset, I was stuck. No amount of tutorials or reading other&amp;rsquo;s code was enabling me to progress. After a few false starts and spending way too much time making sure I had the correct suite of development tools, I started to look elsewhere.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Basin Logix is the only platform bringing distributed technology to water management. The team has dedicated themselves to finding and delivering the best solutions to water management problems in California.
-2017 - Understanding the water problems that exist in the Western US. As a part of the Penn Center for Innovation I-CORPs program we sought to gain insight into the viability of water markets and digitized water as a solution by speaking with water managers, consultants, entrepreneurs, state government, tribal government, federal government representatives.</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Basin Logix is the only platform bringing distributed technology to water management. The team has dedicated themselves to finding and delivering the best solutions to water management problems in California.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2017---understanding-the-water-problems-that-exist-in-the-western-us&#34;&gt;2017 - Understanding the water problems that exist in the Western US.&lt;/h3&gt;&#xA;&lt;p&gt;As a part of the &lt;a href=&#34;https://pci.upenn.edu/icorps/&#34;&gt;Penn Center for Innovation&lt;/a&gt; I-CORPs program we sought to gain insight into the viability of water markets and digitized water as a solution by speaking with water managers, consultants, entrepreneurs, state government, tribal government, federal government representatives. Checkout what we learned from our conversations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sign up</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>THE SERVICES BY BASIN LOGIX LLC ARE PROVIDED &amp;ldquo;AS IS&amp;rdquo;, AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND. READ THE FULL TERMS</description>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;!-- Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.&#xA;&#xA;| Day       | Opening Hours   |&#xA;| --------- | --------------- |&#xA;| Tuesday   | 8:30am - 5:00pm |&#xA;| Wednesday | 8:30am - 5:00pm |&#xA;| Thursday  | 8:30am - 5:00pm |&#xA;| Friday    | 8:30am - 5:00pm |&#xA;| Saturday  | 10:am - 4:00pm  |&#xA;| Sunday    | Closed          | --&gt;&#xA;&lt;p&gt;THE SERVICES BY BASIN LOGIX LLC ARE PROVIDED &amp;ldquo;AS IS&amp;rdquo;, AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND. &lt;a href=&#34;https://drive.google.com/file/d/1-7BHe7Y4X0A4FSYNuAVDPKWyikYnnPaL/view?usp=sharing&#34;&gt;READ THE FULL TERMS&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,36 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Basin Logix 2023</title>
-    <link>/services/</link>
+    <link>//localhost:1313/services/</link>
     <description>Recent content in Services on Basin Logix 2023</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Mar 2023 12:33:46 +1000</lastBuildDate>
-    
-	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Growers and Landowners</title>
-      <link>/services/growers/</link>
+      <link>//localhost:1313/services/growers/</link>
       <pubDate>Wed, 01 Mar 2023 12:33:46 +1000</pubDate>
-      
-      <guid>/services/growers/</guid>
-      <description>We reinvented water assets so that you can control your resource how you choose to.
-State Wide Trust Know where you stand, no matter where you are. Basin Logix operates on a single distributed ledger, so everyone is working with the same numbers. We know your groundwater worries span the whole state, so we built a platform that does the same.
-Quick Glance We get data and you get information. Quick Glance lets you track your surface water and groundwater without needing to keep tabs on all the details yourself.</description>
+      <guid>//localhost:1313/services/growers/</guid>
+      <description>&lt;p&gt;We reinvented water assets so that you can control your resource how you choose to.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/coaster.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide-trust&#34;&gt;State Wide Trust&lt;/h2&gt;&#xA;&lt;p&gt;Know where you stand, no matter where you are. Basin Logix operates on a single distributed ledger, so everyone is working with the same numbers. We know your groundwater worries span the whole state, so we built a platform that does the same.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-glance&#34;&gt;Quick Glance&lt;/h2&gt;&#xA;&lt;p&gt;We get data and you get information. Quick Glance lets you track your surface water and groundwater without needing to keep tabs on all the details yourself. If you want to go deeper, the data is there.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GSAs, Irrigation Districts, and Counties</title>
-      <link>/services/gsas/</link>
+      <link>//localhost:1313/services/gsas/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      
-      <guid>/services/gsas/</guid>
-      <description>Get on track to sustainably with demand management that fits your needs.
-State Wide Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.
-Quick Check No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.</description>
+      <guid>//localhost:1313/services/gsas/</guid>
+      <description>&lt;p&gt;Get on track to sustainably with demand management that fits your needs.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/sticker_emergency.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide&#34;&gt;State Wide&lt;/h2&gt;&#xA;&lt;p&gt;Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-check&#34;&gt;Quick Check&lt;/h2&gt;&#xA;&lt;p&gt;No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

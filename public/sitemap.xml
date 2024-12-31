@@ -1,107 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/services/growers/</loc>
+    <loc>//localhost:1313/services/growers/</loc>
     <lastmod>2023-03-01T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/gsas/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/gsas/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/basin-logix-0-0-1-is-available-for-testing/</loc>
-    <lastmod>2023-03-31T11:23:03-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2023-03-31T11:23:03-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2023-03-30T17:05:37-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/welcome/</loc>
+  </url><url>
+    <loc>//localhost:1313/welcome/</loc>
     <lastmod>2023-03-30T17:05:37-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/</loc>
     <lastmod>2023-03-01T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/exhaustion-and-expansion/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/exhaustion-and-expansion/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/sticker-signup/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/sticker-signup/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/cubes-cryptography-and-common-pool-resources/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/cubes-cryptography-and-common-pool-resources/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/the-forgotten-property-of-water/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/the-forgotten-property-of-water/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/basin-logix-is-available-for-testing/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/basin-logix-is-available-for-testing/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tutorial/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/tutorial/</loc>
     <lastmod>2021-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/gearing-up-to-xcelerate/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/gearing-up-to-xcelerate/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/tip-of-the-iceberg/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/tip-of-the-iceberg/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/404/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/404/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
 </urlset>
