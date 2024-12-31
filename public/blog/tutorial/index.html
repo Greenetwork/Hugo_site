@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Tutorial for Basin Logix Platform beta - Basin Logix 2023</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="../../favicon-32x32.png">
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Titillium&#43;Web&amp;display:wght@600&amp;family=Source&#43;Sans&#43;Pro:wght@400;700&amp;display=swap" rel="stylesheet">
+
+
+
+  
+  
+  
+  
+    
+  
+  <link rel="stylesheet" href="../../css/style.min.af08764a0840aad9c1817a25d96d2b84bc618ac02e098528f6aa69b874d829aa.css">
+
+  
+
+  
+    
+    <meta property="og:title" content="Tutorial for Basin Logix Platform beta"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="/blog/tutorial/"/>
+    <meta property="og:image" content="https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"/>
+    
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@BasinLogix"/>
+    <meta name="twitter:creator" content="@BasinLogix"/>
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    
+    
+    <li class="menu-item-services ">
+      <a href="../../services/">
+        <span>Services</span>
+      </a>
+    </li>
+    
+    
+    
+    <li class="menu-item-blog ">
+      <a href="../../blog/">
+        <span>Blog</span>
+      </a>
+    </li>
+    
+    
+    
+    <li class="menu-item-about ">
+      <a href="../../about/">
+        <span>About</span>
+      </a>
+    </li>
+    
+    
+    
+    <li class="menu-item-sign up ">
+      <a href="../../contact/">
+        <span>Sign up</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="../../"><img height=100px alt="Basin Logix - The water accounting platform" src="../../images/logo/logo.png" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="../../"><img height=36px alt="Basin Logix - The water accounting platform" src="../../images/logo/basinlogix_icon_logo.svg" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    
+    
+    <li class="menu-item-services ">
+      <a href="../../services/">
+        
+        <span>Services</span>
+      </a>
+    </li>
+    
+    
+    
+    <li class="menu-item-blog ">
+      <a href="../../blog/">
+        
+        <span>Blog</span>
+      </a>
+    </li>
+    
+    
+    
+    <li class="menu-item-about ">
+      <a href="../../about/">
+        
+        <span>About</span>
+      </a>
+    </li>
+    
+    
+    
+    <li class="menu-item-sign up ">
+      <a href="../../contact/">
+        
+        <span>Sign up</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button" aria-label="Mobile Menu">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+    
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <h1 class="title">Tutorial for Basin Logix Platform beta</h1>
+      <div class="content"><p>October 18th, 2021</p>
+<p>Welcome to the Basin Logix Platform 0.0.1 beta release tutorial.</p>
+<p>In this tutorial we will be demonstrating:</p>
+<ol>
+<li>Searching for, inspecting and registering agricultural parcels on the network</li>
+<li>Distributing groundwater allocations to all registered parcels on the network</li>
+<li>Trading groundwater allocations between parcels on the network.</li>
+<li>Monitoring the compliance of agricultural parcels on the network.</li>
+<li>Taking ownership of your APNs on Basin Logix.</li>
+</ol>
+<p>We have detailed how to create user accounts and take ownership of your APNs on Basin Logix in this tutorial.</p>
+<p>Search for your parcel on the network:
+<img src="../../images/pics/tut/apn_search.png" alt="Alt text"></p>
+<p>Enter your APN into the <strong>APN Search</strong> (example: 317053) and click search.</p>
+<p>Now review the details of the agricultural parcels associated with APN 317053. Check that the GSA, county, crop type and acreage are all accurate with the information you have about your parcels.
+<img src="../../images/pics/tut/apn_search_result.png" alt="Alt text"></p>
+<p>If everything looks as it should, claim the APN by clicking the <strong>Claim APN</strong> button.
+<img src="../../images/pics/tut/success_apn.png" alt="Alt text"></p>
+<p>Click the Refresh button to show your claimed parcel(s) which now appear in blue and see their water allocations in the <strong>Water Allocation</strong> table.</p>
+<p><img src="../../images/pics/tut/bob.png" alt="Alt text"></p>
+<p>Change accounts to Bob and repeat the above steps with APN: 317035</p>
+<hr>
+<p>Now Bob&rsquo;s parcels appear in blue (because he is the selected account) and Alice&rsquo;s Parcels in gray. Additionally only Bob&rsquo;s parcels are displayed in the Water Allocation table.</p>
+<p><img src="../../images/pics/tut/bob_alice_apns.png" alt="Alt text"></p>
+<p>Switch on Regulator View and notice that the <strong>Water Allocation</strong> table now shows all APNs, but shows them as out of compliance. For example purposes of this beta version, APNs are out of compliance when their Water Allocations are below 10 ACFT.</p>
+<p><img src="../../images/pics/tut/reg_view.png" alt="Alt text"></p>
+<p>Click the <strong>Distribute Allocation</strong> button to allocate 100 ACFT to all registered APNs on the the network. Wait 5 seconds and click the Refresh button to view the APN&rsquo;s new compliance status.</p>
+<p><img src="../../images/pics/tut/dist.png" alt="Alt text"></p>
+<p>Now that both parcels have a <strong>Water Allocation</strong> figure out how move some ACFT from one to the other by utilizing the Water Transfer function. (when in doubt click the Refresh button)</p>
+<hr>
+<blockquote>
+<p><img src="../../images/pics/tut/coverage.jpg" alt="Alt text"></p>
+<p>Our database contains agricultural, water resource management and property data for APNs in 44 counties in California. The database is being continuously updated with more attributes and data types.</p>
+</blockquote>
+<h2 id="great-job">Great Job!</h2>
+<p>Now that you know how to register APNs, distribute allocations, and move allocations around, lets re-register your APNs on the network under your own account.</p>
+<p>Install the Polkadot-js extension (A very simple browser extension that enables decentralized applications to utilize accounts that it manages and creates.)</p>
+<p>On Chrome, install via <a href="https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd">Chrome web store</a></p>
+<p>On Firefox, install via <a href="https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/">Firefox add-ons</a></p>
+<p><img src="../../images/pics/tut/extension.png" alt="Alt text"></p>
+<p>After installing, click on the little orange P icon in your browser. Follow the instructions to create an account. Write down your seedphrase and password. The Basin Logix team cannot retrieve either of these if you lose them.</p>
+<p>Refresh platform.basinlogix.com and allow the Polkadot-js extension access to the Basin Logix platform by approving access.</p>
+<p><img src="../../images/pics/tut/injection.png" alt="Alt text"></p>
+<p>With your account selected located the <strong>Register Injected Account on BLX</strong> function near the bottom of the page and click Submit.</p>
+<p>As you did before, search for and claim your APNs.<br>
+They will now be attributed to the account you just created!</p>
+<p>Registering your APNs under your own account will:</p>
+<ul>
+<li>Help guide our efforts toward launching the main network for your basin.</li>
+<li>Let your neighbors know that you want shared water resource governance that is easy to understand, has no central authority and respects your privacy.</li>
+<li>Let your regulators know that you support collective efforts towards sustainability and that you want to control your resources how you choose to.</li>
+</ul>
+</div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          
+            
+<div class="social">
+    
+        <a href="https://github.com/Greenetwork" target="blank"><img src="../../images/social/github.svg" title="Github" alt="Github" /></a>
+    
+        <a href="https://twitter.com/BasinLogix" target="blank"><img src="../../images/social/twitter.svg" title="Twitter" alt="Twitter" /></a>
+    
+</div>
+
+          
+          
+            <div class="copyright">Theme by <a class="zerostatic" href="https://www.zerostatic.io">zerostatic</a></div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  
+
+  
+  
+
+  
+    
+  
+  <script type="text/javascript" src="../../js/scripts.min.bf1e1f7ae8e03db5f012356e825843facdff51c0a559cb0d27fe2bbe1db405c2.js"></script>
+
+  
+
+
+  
+
+
+</body>
+
+</html>

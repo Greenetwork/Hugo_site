@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Basin Logix 2023</title>
+    <link>/services/</link>
+    <description>Recent content in Services on Basin Logix 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Mar 2023 12:33:46 +1000</lastBuildDate>
+    
+	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Growers and Landowners</title>
+      <link>/services/growers/</link>
+      <pubDate>Wed, 01 Mar 2023 12:33:46 +1000</pubDate>
+      
+      <guid>/services/growers/</guid>
+      <description>We reinvented water assets so that you can control your resource how you choose to.
+State Wide Trust Know where you stand, no matter where you are. Basin Logix operates on a single distributed ledger, so everyone is working with the same numbers. We know your groundwater worries span the whole state, so we built a platform that does the same.
+Quick Glance We get data and you get information. Quick Glance lets you track your surface water and groundwater without needing to keep tabs on all the details yourself.</description>
+    </item>
+    
+    <item>
+      <title>GSAs, Irrigation Districts, and Counties</title>
+      <link>/services/gsas/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/gsas/</guid>
+      <description>Get on track to sustainably with demand management that fits your needs.
+State Wide Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.
+Quick Check No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.</description>
+    </item>
+    
+  </channel>
+</rss>

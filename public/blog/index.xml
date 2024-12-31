@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Basin Logix 2023</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Basin Logix 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exhaustion and Expansion</title>
+      <link>/blog/exhaustion-and-expansion/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/exhaustion-and-expansion/</guid>
+      <description>February 2nd, 2023
+ &amp;ldquo;Such resources [&amp;hellip;natural resources…] share with most of the capital of society the property of being exhaustible, and if we want to maintain or increase our income, we must be able to replace each resource that is being used up with a new one that will make at least an equal contribution to future income.&amp;rdquo; [1]
+ The mindset of necessary consumption of natural resources resulting in economic growth has been and continues to be in the subconscious of enterprising Americans.</description>
+    </item>
+    
+    <item>
+      <title>Sticker Signup</title>
+      <link>/blog/sticker-signup/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sticker-signup/</guid>
+      <description>November 30th, 2022
+Basin Logix is thrilled to announce a new way to join the biggest groundwater management platform in California! We are bringing a revolutionary way of registering your groundwater wells on Basin Logix. All you need is our sticker and your phone.
+Sticker Signup is the fastest and easiest way to get started managing your groundwater assets. Continuing with our grower first mentality we will be exclusively launching Sticker Signup at the 2022 California Farm Bureau Annual Meeting in Monterey, CA.</description>
+    </item>
+    
+    <item>
+      <title>Cubes Cryptography and Common Pool Resources</title>
+      <link>/blog/cubes-cryptography-and-common-pool-resources/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/cubes-cryptography-and-common-pool-resources/</guid>
+      <description>May 5th, 2022
+Cubes, Cryptography and Common Pool Resources Two weeks ago Basin Logix was at the Association of California Water Agencies (ACWA) 2022 Spring conference in the imposing Sacramento conference center. This was our first time at ACWA and lucky for us we secured a booth right in front of the exhibitor hall entrance. Around us were the standard fare of conference exhibitor swag up for grabs: bowls of candy, business card raffles to win gadgets, company stationary, and even the crowd-pleasing mini putting green.</description>
+    </item>
+    
+    <item>
+      <title>The Forgotten Property of Water</title>
+      <link>/blog/the-forgotten-property-of-water/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/the-forgotten-property-of-water/</guid>
+      <description>April 5th, 2022
+When we seek to understand water on earth there are two types of variables, units of time and units of water. Combining the units helps us quantify water: Gallons per minute, acre-feet per year, cubic-feet per second, inches per hour, etc.
+Time is the constant by which everything is relativized. Combining time and water on paper helps us quantify the resource, but combining time and water on earth yields life.</description>
+    </item>
+    
+    <item>
+      <title>Basin Logix is Available for Testing</title>
+      <link>/blog/basin-logix-is-available-for-testing/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/basin-logix-is-available-for-testing/</guid>
+      <description>October 18th, 2021
+We are launching a beta version of the Basin Logix platform 0.0.1, for the governance and management of groundwater in select counties in California:
+Alameda, Amador, Butte, Calaveras, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humbolt, Imperial, Kern, Kings, Lake, Lassen, Madera, Marin, Mendocino, Merced, Mono, Monterey, Napa, Orange, Placer, Sacramento, San Benito, San Bernardino, San Joaquin, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Solano, Sonoma, Stanislaus, Sutter, Tehama, Tulare, Ventura, Yolo, and Yuba</description>
+    </item>
+    
+    <item>
+      <title>Tutorial for Basin Logix Platform beta</title>
+      <link>/blog/tutorial/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tutorial/</guid>
+      <description>October 18th, 2021
+Welcome to the Basin Logix Platform 0.0.1 beta release tutorial.
+In this tutorial we will be demonstrating:
+ Searching for, inspecting and registering agricultural parcels on the network Distributing groundwater allocations to all registered parcels on the network Trading groundwater allocations between parcels on the network. Monitoring the compliance of agricultural parcels on the network. Taking ownership of your APNs on Basin Logix.  We have detailed how to create user accounts and take ownership of your APNs on Basin Logix in this tutorial.</description>
+    </item>
+    
+    <item>
+      <title>Gearing Up to Xcelerate</title>
+      <link>/blog/gearing-up-to-xcelerate/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gearing-up-to-xcelerate/</guid>
+      <description>May 21st, 2021
+In the seven months since the last blog post we have been coding in rust, listening to passionate community leaders, writing our ideas and most importantly applying those insights and knowledge towards the development of our natural resource management platform.
+There is some particularly bad weather these days, climate change is already affecting the planet in major ways and it shows no signs of letting up. The gear we&amp;rsquo;ve used to combat previous crises just isn&amp;rsquo;t going to cut it.</description>
+    </item>
+    
+    <item>
+      <title>Tip of the Iceberg</title>
+      <link>/blog/tip-of-the-iceberg/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tip-of-the-iceberg/</guid>
+      <description>August 21st, 2020
+A few weeks ago I was invited to speak at Substrate Seminar, a weekly meeting where people share what they are working on in the realm of Substrate, a platform for producing unique blockchains. A one hour conversation about some of my learnings as a beginner, turned out to actually be a step towards realizing Basin Logix&amp;rsquo;s long term project goals.
+My interest in building with Substrate began in earnest a few months ago, when I completed a blockchain developer course in Ethereum.</description>
+    </item>
+    
+  </channel>
+</rss>
