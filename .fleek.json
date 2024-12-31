@@ -1,0 +1,10 @@
+{
+    "build": {
+      "image": "node:16",
+      "command": "wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.140.2/hugo_extended_0.140.2_linux-amd64.deb && dpkg -i hugo.deb && hugo --gc --minify",
+      "publish": "public",
+      "environment": {
+        "HUGO_VERSION": "0.140.2"
+      }
+    }
+  }
