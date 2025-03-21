@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Basin Logix 2023</title>
+    <title>Homepage on Basin Logix</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Homepage on Basin Logix 2023</description>
+    <description>Recent content in Homepage on Basin Logix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Mar 2023 17:05:37 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 12:33:46 +1000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Growers and Landowners</title>
@@ -20,14 +20,7 @@
       <link>//localhost:1313/services/gsas/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       <guid>//localhost:1313/services/gsas/</guid>
-      <description>&lt;p&gt;Get on track to sustainably with demand management that fits your needs.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/sticker_emergency.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide&#34;&gt;State Wide&lt;/h2&gt;&#xA;&lt;p&gt;Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-check&#34;&gt;Quick Check&lt;/h2&gt;&#xA;&lt;p&gt;No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to Your Future</title>
-      <link>//localhost:1313/welcome/</link>
-      <pubDate>Thu, 30 Mar 2023 17:05:37 -0700</pubDate>
-      <guid>//localhost:1313/welcome/</guid>
-      <description>&lt;h3 id=&#34;access-link-to-the-beta-version-of-your-platform-for-water-accounting&#34;&gt;Access link to the beta version of your platform for water accounting:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://platform.basinlogix.com/&#34;&gt;http://platform.basinlogix.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-details-on-the-platform-and-an-overview-of-its-functionality-see&#34;&gt;For details on the platform and an overview of its functionality see:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./blog/basin-logix-0-0-1-is-available-for-testing&#34;&gt;Platform introduction&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-a-tutorial-on-how-to-use-the-platform-see&#34;&gt;For a tutorial on how to use the platform see:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./blog/tutorial&#34;&gt;Platform tutorial&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;for-smartphone-groundwater-well-registration-see&#34;&gt;For smartphone groundwater well registration see:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://register.basinlogix.com/&#34;&gt;Well registration&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you would like to get in touch with us please email: &lt;a href=&#34;mailto:spencerbh@basinlogix.com&#34;&gt;spencerbh@basinlogix.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The Basin Logix platform is undergoing constant improvements and rapid development. Any usage of the platform, including accounts/assets created, is for demonstration purposes only and will not be retained in future releases.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Get on track to sustainability with demand management that fits your needs.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/sticker_emergency.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide&#34;&gt;State Wide&lt;/h2&gt;&#xA;&lt;p&gt;Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-check&#34;&gt;Quick Check&lt;/h2&gt;&#xA;&lt;p&gt;No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exhaustion and Expansion</title>

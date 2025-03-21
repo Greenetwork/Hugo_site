@@ -6,7 +6,7 @@ draft: false
 weight: 4
 ---
 
-Get on track to sustainably with demand management that fits your needs.
+Get on track to sustainability with demand management that fits your needs.
 <!-- ![Alt text](/images/pics/sticker_emergency.png) -->
 ## State Wide
 Feel confident that your groundwater and everyone else's is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.

@@ -4699,11 +4699,96 @@ ol {
 
 body {
   font-size: 16px;
-  line-height: 1.2;
-  font-family: Source Sans Pro, Helvetica, Arial, sans-serif, -apple-system; }
+  line-height: 1.6;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif, -apple-system;
+  color: #222222; }
   @media (min-width: 768px) {
     body {
       font-size: 16px;
-      line-height: 1.3; } }
+      line-height: 1.7; } }
+.animate-fade-in {
+  opacity: 0;
+  animation: fadeIn 1s ease-in forwards; }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px); }
+  to {
+    opacity: 1;
+    transform: translateY(0); } }
+
+.animate-cards {
+  --stagger: 0.1s; }
+
+.service-card {
+  opacity: 0;
+  animation: slideIn 0.5s ease-out forwards;
+  animation-delay: calc(var(--stagger) * var(--i)); }
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px); }
+  to {
+    opacity: 1;
+    transform: translateX(0); } }
+
+.hover-effect {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+  padding: 1.5rem;
+  background: white; }
+
+.hover-effect:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); }
+
+.g-4 {
+  gap: 1.5rem; }
+
+.strip {
+  padding: 5rem 0;
+  background-color: #F2F2F2; }
+  .strip.strip-grey {
+    background-color: #85bea9ff; }
+
+.footer {
+  background-color: #85bea9ff;
+  padding: 60px 0 20px;
+  color: #222222; }
+  .footer .footer-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 2rem; }
+  .footer .footer-brand {
+    margin-bottom: 1rem; }
+    .footer .footer-brand .footer-title {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem; }
+    .footer .footer-brand .footer-description {
+      opacity: 0.8; }
+  .footer .footer-bottom {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    width: 100%;
+    text-align: center; }
+    .footer .footer-bottom .copyright {
+      font-size: 0.9rem; }
+  .footer .social-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 1rem; }
+    .footer .social-links .social-link {
+      color: white;
+      font-size: 1.5rem;
+      opacity: 0.8;
+      transition: opacity 0.3s ease; }
+      .footer .social-links .social-link:hover {
+        opacity: 1; }
 
 /*# sourceMappingURL=style.css.map */

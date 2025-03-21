@@ -1,13 +1,20 @@
-<div class="footer">
+<footer class="footer" style="padding-top: 5px; padding-bottom: 5px;">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="footer-inner">
-          <h3 class="footer-title">{{.Site.Title}}</h3>
+        <div class="footer-inner animate-fade-in">
+          <!-- <div class="footer-brand">
+            <h3 class="footer-title">{{.Site.Title}}</h3>
+          </div> -->
+          
           {{ partial "footer-menu" . }}
           
+          <div class="footer-bottom">
+            <p class="copyright">&copy; {{ now.Format "2006" }} {{.Site.Title}}. All rights reserved.</p>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+  <script src="{{ "js/animations.js" | relURL }}"></script>
+</footer>

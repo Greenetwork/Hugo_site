@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Basin Logix 2023</title>
+    <title>Services on Basin Logix</title>
     <link>//localhost:1313/services/</link>
-    <description>Recent content in Services on Basin Logix 2023</description>
+    <description>Recent content in Services on Basin Logix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Mar 2023 12:33:46 +1000</lastBuildDate>
@@ -20,7 +20,7 @@
       <link>//localhost:1313/services/gsas/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       <guid>//localhost:1313/services/gsas/</guid>
-      <description>&lt;p&gt;Get on track to sustainably with demand management that fits your needs.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/sticker_emergency.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide&#34;&gt;State Wide&lt;/h2&gt;&#xA;&lt;p&gt;Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-check&#34;&gt;Quick Check&lt;/h2&gt;&#xA;&lt;p&gt;No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Get on track to sustainability with demand management that fits your needs.&lt;/p&gt;&#xA;&lt;!-- ![Alt text](/images/pics/sticker_emergency.png) --&gt;&#xA;&lt;h2 id=&#34;state-wide&#34;&gt;State Wide&lt;/h2&gt;&#xA;&lt;p&gt;Feel confident that your groundwater and everyone else&amp;rsquo;s is accounted for. Basin Logix is a state level solution. From border to border everyone works on the same platform which leverages the same distributed ledger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-check&#34;&gt;Quick Check&lt;/h2&gt;&#xA;&lt;p&gt;No more going cross-eyed staring at spreadsheets. Quick Check compliance gives you the power to set up unique metrics that you can view at a glance, abstracting away complexity.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
